@@ -9,8 +9,4 @@ Mod developed by DeltaSierra4
 
 2. Place all the .rpyc and .rpa files in the 'game_files' folder into the 'game' folder of your copy of DDLC.
 
-3. Place the README.html file in the main folder where DDLC.exe is located. If you're asked to decide to replace or leave the files in the folder at any point, select 'replace file'.
-
-4. Place the README_files folder where DDLC.exe is located.
-
 NB! You may encounter an error if you start playing the mod without a firstrun file in the game folder. You can ignore this error and press the reload button to start the game.
