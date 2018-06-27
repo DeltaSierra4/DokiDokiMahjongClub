@@ -1,4 +1,7 @@
-Doki Doki Mahjong Club fanmod installation instructions
+Doki Doki Mahjong Club 1.0.0
+Mod developed by DeltaSierra4
+
+*** Installation instructions ***
 
 1. Obtain a fresh copy of Doki Doki Literature Club (Available on Steam or here: http://ddlc.moe/). Make sure you have completed the playthrough on the original game before proceeding.
 
