@@ -1,4 +1,4 @@
-Doki Doki Mahjong Club 1.0.0
+Doki Doki Mahjong Club 1.0.1
 Mod developed by DeltaSierra4
 
 *** Installation instructions ***
@@ -10,3 +10,5 @@ Mod developed by DeltaSierra4
 2. Place all the .rpyc and .rpa files in the 'game_files' folder into the 'game' folder of your copy of DDLC.
 
 NB! You may encounter an error if you start playing the mod without a firstrun file in the game folder. You can ignore this error and press the reload button to start the game.
+
+3. If you encounter any errors that state that any of the .rpyc files cannot be loaded, repeat step #2 with the files in the game.zip file.
